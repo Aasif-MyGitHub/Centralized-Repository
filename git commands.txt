@@ -1,0 +1,2 @@
+git add origin master  -   to synce git hub account with local
+git pull - to pull files from server/centerilized 
